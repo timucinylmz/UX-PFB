@@ -6,5 +6,5 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 Directions
 Submission is limited to only 1, do not submit more than one.
 Create a UI for submitting a PFB transaction.
-Ensure it is open source and share the Github repository as well.UI for submitting PayForBlob transactions
+Ensure it is open source and share the Github repository as well. UI for submitting PayForBlob transactions.
 
