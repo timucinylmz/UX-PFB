@@ -2,7 +2,7 @@
 
 ## Explanation
 
-This web app is developed by me for Blockspace Race testnet's bonus task which is organised by Celestia.
+This web app is developed by me for Blockspace Race testnet's bonus task which is organised by Celestia. You can reach the app via your browser which has address http://128.140.9.56/
 
 Description:
 
