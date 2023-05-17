@@ -15,7 +15,10 @@ Enter the site
 
 ![1-giriş ekranı](https://github.com/timucinylmz/UX-PFB/assets/50196616/7aa760be-409c-4f11-b2d4-7e8fd72e99d3)
 
-Enter digit seed value and create "namespace id" by 'Run' button
+Enter 8 bytes seed value and create "namespace ID" by 'calculate' button
+-PFB is a PayForBlob Message.
+-The endpoint also takes in a namespace_id and data values.
+-Namespace ID should be 8 bytes.
 
 ![namespace id](https://github.com/timucinylmz/UX-PFB/assets/50196616/0bfe2023-3fc2-4947-8e50-2709cd328a16)
 
