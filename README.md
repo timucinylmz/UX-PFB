@@ -22,4 +22,8 @@ Enter 8 bytes seed value and create "namespace ID" by 'calculate' button
 
 ![namespace id](https://github.com/timucinylmz/UX-PFB/assets/50196616/0bfe2023-3fc2-4947-8e50-2709cd328a16)
 
+Submitting PayForBlob transaction by 'Run' button
+
+![pfb](https://github.com/timucinylmz/UX-PFB/assets/50196616/9c1cb81a-5f49-404a-932c-cbe4dfa07392)
+
 
