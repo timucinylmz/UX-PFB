@@ -13,6 +13,10 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 ## User Interface
 Enter the site
 
-
 ![1-giriş ekranı](https://github.com/timucinylmz/UX-PFB/assets/50196616/7aa760be-409c-4f11-b2d4-7e8fd72e99d3)
+
+Enter digit seed value and create "namespace id" by 'Run' button
+
+![namespace id](https://github.com/timucinylmz/UX-PFB/assets/50196616/0bfe2023-3fc2-4947-8e50-2709cd328a16)
+
 
