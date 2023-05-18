@@ -2,13 +2,13 @@
 
 ## Explanation
 
-This web app is developed by me for Blockspace Race testnet's bonus task which is organised by Celestia. You can reach the app via your browser which has address http://128.140.9.56/
+This web app is developed by me for Blockspace Race testnet's bonus task which is organised by Celestia. You can reach the app via your browser which has address http://128.140.9.56/  
 
 ![celestia reklam](https://github.com/timucinylmz/UX-PFB/assets/50196616/ac281673-7f78-41c6-9d64-ad318b6d1284)
 
 ## Description
 
-Create a UI for allowing users to submit PayForBlob Transactions. You can check out the Node tutorial (https://docs.celestia.org/developers/node-tutorial/). It shows you how you can call the API in order to submit a PFB transaction (https://docs.celestia.org/developers/node-tutorial/#submit-a-pfb-transaction) , and how to retrieve the data (https://docs.celestia.org/developers/node-tutorial/#get-namespaced-shares-by-block-height) by block height and namespace.
+Create a UI for allowing users to submit PayForBlob Transactions. You can check out the Node tutorial (https://docs.celestia.org/developers/node-tutorial/). It shows you how you can call the API in order to submit a PFB transaction (https://docs.celestia.org/developers/node-tutorial/#submit-a-pfb-transaction) , and how to retrieve the data (https://docs.celestia.org/developers/node-tutorial/#get-namespaced-shares-by-block-height) by block height and namespace.  
 
 ![devs](https://github.com/timucinylmz/UX-PFB/assets/50196616/2516216f-d6b4-4449-9cfe-d8768669e6c4)
 
@@ -16,19 +16,19 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 ## Instructions for running the app on your own device
 
 Requirements: 
-	Node.js 18+
-	dotnet sdk 6
-	quasar/cli with:
-		npm i -g @quasar/cli
+	Node.js 18+  
+	dotnet sdk 6  
+	quasar/cli with:  
+		npm i -g @quasar/cli  
 
 
-For Debugging:
-	quasar dev // from root folder
-	dotnet watch run // from backend folder
+For Debugging:  
+	quasar dev // from root folder  
+	dotnet watch run // from backend folder  
 
-Publish:
-	quasar build
-	dotnet publish -c Release
+Publish:  
+	quasar build  
+	dotnet publish -c Release  
 
 copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
 
@@ -40,9 +40,9 @@ copy client output files in dist\spa folder to backend\bin\Release\net6.0\publis
 
 
 ### Enter 8 bytes seed value and create "namespace ID" by 'calculate' button
--PFB is a PayForBlob Message.
--The endpoint also takes in a namespace_id and data values.
--Namespace ID should be 8 bytes.
+-PFB is a PayForBlob Message.  
+-The endpoint also takes in a namespace_id and data values.  
+-Namespace ID should be 8 bytes.  
 
 ![namespace id](https://github.com/timucinylmz/UX-PFB/assets/50196616/0bfe2023-3fc2-4947-8e50-2709cd328a16)
 
