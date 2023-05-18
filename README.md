@@ -19,16 +19,16 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 	-Node.js 18+    
 	-dotnet sdk 6  
 	-quasar/cli with:  
-		    npm i -g @quasar/cli
+		    '''npm i -g @quasar/cli'''
 
 
 *For Debugging:*  
-	  -quasar dev // from root folder  
-	  -dotnet watch run // from backend folder  
+	  -'''quasar dev''' // from root folder  
+	  -'''dotnet watch run''' // from backend folder  
 
 *Publish:*  
-	  -quasar build  
-	  -dotnet publish -c Release  
+	  '''quasar build'''  
+	  '''dotnet publish -c Release'''
 
   copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
 
