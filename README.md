@@ -23,8 +23,8 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 
 
 *For Debugging:*  
-	  `quasar dev` /* from root folder */  
-	  `dotnet watch run` /* from backend folder */  
+	  `quasar dev` // from root folder // 
+	  `dotnet watch run` // from backend folder //  
 
 *Publish:*  
 	  `quasar build`  
