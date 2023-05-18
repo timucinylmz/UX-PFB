@@ -27,7 +27,7 @@ Publish:
 	quasar build
 	dotnet publish -c Release
 
-	copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
+copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
 
 ## User Interface
 ### Enter the site
