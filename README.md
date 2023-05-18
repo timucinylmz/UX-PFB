@@ -27,7 +27,7 @@ Create a UI for allowing users to submit PayForBlob Transactions. You can check 
 	  `dotnet watch run` // from backend folder  
 
 *Publish:*  
-	  `quasar build`
+	  `quasar build`  
     `dotnet publish -c Release`
 
   copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
