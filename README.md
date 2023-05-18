@@ -10,6 +10,25 @@ This web app is developed by me for Blockspace Race testnet's bonus task which i
 
 Create a UI for allowing users to submit PayForBlob Transactions. You can check out the Node tutorial (https://docs.celestia.org/developers/node-tutorial/). It shows you how you can call the API in order to submit a PFB transaction (https://docs.celestia.org/developers/node-tutorial/#submit-a-pfb-transaction) , and how to retrieve the data (https://docs.celestia.org/developers/node-tutorial/#get-namespaced-shares-by-block-height) by block height and namespace.
 
+## Instructions for running the app on your own device
+
+Requirements: 
+	Node.js 18+
+	dotnet sdk 6
+	quasar/cli with:
+		npm i -g @quasar/cli
+
+
+For Debugging:
+	quasar dev // from root folder
+	dotnet watch run // from backend folder
+
+Publish:
+	quasar build
+	dotnet publish -c Release
+
+	copy client output files in dist\spa folder to backend\bin\Release\net6.0\publish\wwwroot
+
 ## User Interface
 ### Enter the site
 
