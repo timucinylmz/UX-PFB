@@ -19,7 +19,7 @@ Requirements:
 	*Node.js 18+    
 	*dotnet sdk 6  
 	*quasar/cli with:  
-		    npm i -g @quasar/cli  
+		    <p>npm i -g @quasar/cli</p>
 
 
 For Debugging:  
